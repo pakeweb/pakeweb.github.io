@@ -21,23 +21,19 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9b9eff657f3f6e0d0215428e52037fd5"
+    "revision": "7a18a74b7121efc79bb236f19de25036"
   },
   {
     "url": "android-chrome-192x192.png",
     "revision": "0b575074f0c2b4619c057bb3c9a915c4"
   },
   {
-    "url": "android-chrome-512x512.png",
-    "revision": "a1cec40fb13bc24d7a64f255c2c0691f"
-  },
-  {
     "url": "apple-touch-icon.png",
     "revision": "6e4673fc39c78b2806f2f49a020f4bcb"
   },
   {
-    "url": "assets/css/0.styles.9ff129c2.css",
-    "revision": "303c8a9ec8e2cb6473d9e2cadec33521"
+    "url": "assets/css/0.styles.35c6c83a.css",
+    "revision": "1eeebc8d830d95d31c7b402347d653b5"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -68,8 +64,8 @@ self.__precacheManifest = [
     "revision": "308a38103961f973da02567099873930"
   },
   {
-    "url": "assets/js/app.4fd713d8.js",
-    "revision": "46f9cee366293c430277d816bdc33c61"
+    "url": "assets/js/app.d32416f6.js",
+    "revision": "6587de34777cb668d194447af30a7696"
   },
   {
     "url": "favicon-16x16.png",
@@ -81,15 +77,15 @@ self.__precacheManifest = [
   },
   {
     "url": "hubungi/index.html",
-    "revision": "c6e38808b6df258bf02020bcab83f787"
+    "revision": "e46c13f9142e41d9b606f15b3f11cd1d"
   },
   {
     "url": "ikhtisar/index.html",
-    "revision": "84abdda0e3b91c2f7c9b5102715ad870"
+    "revision": "4473777f4e167dbe0c5704cf5b641235"
   },
   {
     "url": "index.html",
-    "revision": "1778de079de7c9a5f8886b9e98275cbe"
+    "revision": "be43e7861ea680b6ad6d191f415b202b"
   },
   {
     "url": "logo.png",
@@ -97,7 +93,7 @@ self.__precacheManifest = [
   },
   {
     "url": "logo.svg",
-    "revision": "c9dca0d925a43b52b015bf8610e6777e"
+    "revision": "7085db9568854417e730fd29fc9d48f9"
   },
   {
     "url": "mstile-150x150.png",
@@ -105,7 +101,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pengembang/index.html",
-    "revision": "55162502dab38ffbf2841bdee29c602d"
+    "revision": "e3b6b7b965481f9a7c50b31470923dd8"
   },
   {
     "url": "safari-pinned-tab.svg",
