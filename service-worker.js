@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "ef1ea2de519a2ceb5ea1813dbc1e36e5"
+    "revision": "2db36462b3ef6d2718c132224c688487"
   },
   {
     "url": "android-chrome-192x192.png",
@@ -56,20 +56,24 @@ self.__precacheManifest = [
     "revision": "456ef8afe352acd520f2f4aadd7d5c27"
   },
   {
-    "url": "assets/js/6.f740ab62.js",
-    "revision": "7c8a4d91b76a13d13e5f2c364e505b9f"
+    "url": "assets/js/6.579e5b10.js",
+    "revision": "ec9431d2814ab5932acce61a0dc0a2aa"
   },
   {
-    "url": "assets/js/7.38942847.js",
-    "revision": "21578319db0b1a0832054bd8bb82e43b"
+    "url": "assets/js/7.c05b4df8.js",
+    "revision": "bc8b75d14d6a1ef9aa6549a33e3f1000"
   },
   {
-    "url": "assets/js/8.b8332850.js",
-    "revision": "be126479f26937d5e9041d74da55cd9e"
+    "url": "assets/js/8.9ffba2ef.js",
+    "revision": "692142a918cdf95724a557eec856ec75"
   },
   {
-    "url": "assets/js/app.95aa1490.js",
-    "revision": "9703d72c769cb33f5190c31583f6faca"
+    "url": "assets/js/9.c17ab832.js",
+    "revision": "db52875170193e9a106dd3814deebfa1"
+  },
+  {
+    "url": "assets/js/app.80c636ef.js",
+    "revision": "84ea56994997fd9756a8ec0e5961f296"
   },
   {
     "url": "favicon-16x16.png",
@@ -81,15 +85,15 @@ self.__precacheManifest = [
   },
   {
     "url": "hubungi/index.html",
-    "revision": "92ae04fb27df2b88e4737296a4a7167e"
+    "revision": "336df7671fad1a4c274b25cc8d788a61"
   },
   {
     "url": "ikhtisar/index.html",
-    "revision": "4918c650f17a78835f07b12174d420d8"
+    "revision": "369e4d782bd7dcd15adb999f761606ab"
   },
   {
     "url": "index.html",
-    "revision": "eafb73aa668d7f9d4f445e88041da4b5"
+    "revision": "fb5300118b797e2500f8c4355197f9fc"
   },
   {
     "url": "logo.png",
@@ -104,8 +108,12 @@ self.__precacheManifest = [
     "revision": "e046803ccdfbcefd789bf8d29c3ebe34"
   },
   {
+    "url": "pengajuan/index.html",
+    "revision": "0c57ced200d429c99ff431416dbbb6a8"
+  },
+  {
     "url": "pengembang/index.html",
-    "revision": "9d2dcc83369238312eab065dc2a308cb"
+    "revision": "15dbbdfbeead04dc445a30364f10dd0d"
   },
   {
     "url": "safari-pinned-tab.svg",
