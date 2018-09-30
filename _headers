@@ -5,14 +5,3 @@
 
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
-
-/hubungi/
-	Link: </assets/css/0.styles.39d5b772.css>; rel=preload; as=style, </assets/js/app.10b956a9.js>; rel=preload; as=script, </assets/js/6.4e743c38.js>; rel=preload; as=script, </assets/js/4.5decec0d.js>; rel=prefetch, </assets/js/2.b0a30a9b.js>; rel=prefetch, </assets/js/3.450bbecf.js>; rel=prefetch, </assets/js/5.f4fad59d.js>; rel=prefetch, </assets/js/7.9fa96e71.js>; rel=prefetch, </assets/js/8.24d8c5b0.js>; rel=prefetch, </assets/js/9.5828ba24.js>; rel=prefetch
-/ikhtisar/
-	Link: </assets/css/0.styles.39d5b772.css>; rel=preload; as=style, </assets/js/app.10b956a9.js>; rel=preload; as=script, </assets/js/7.9fa96e71.js>; rel=preload; as=script, </assets/js/4.5decec0d.js>; rel=preload; as=script, </assets/js/2.b0a30a9b.js>; rel=prefetch, </assets/js/3.450bbecf.js>; rel=prefetch, </assets/js/5.f4fad59d.js>; rel=prefetch, </assets/js/6.4e743c38.js>; rel=prefetch, </assets/js/8.24d8c5b0.js>; rel=prefetch, </assets/js/9.5828ba24.js>; rel=prefetch
-/
-	Link: </assets/css/0.styles.39d5b772.css>; rel=preload; as=style, </assets/js/app.10b956a9.js>; rel=preload; as=script, </assets/js/5.f4fad59d.js>; rel=preload; as=script, </assets/js/4.5decec0d.js>; rel=prefetch, </assets/js/2.b0a30a9b.js>; rel=prefetch, </assets/js/3.450bbecf.js>; rel=prefetch, </assets/js/6.4e743c38.js>; rel=prefetch, </assets/js/7.9fa96e71.js>; rel=prefetch, </assets/js/8.24d8c5b0.js>; rel=prefetch, </assets/js/9.5828ba24.js>; rel=prefetch
-/pengajuan/
-	Link: </assets/css/0.styles.39d5b772.css>; rel=preload; as=style, </assets/js/app.10b956a9.js>; rel=preload; as=script, </assets/js/8.24d8c5b0.js>; rel=preload; as=script, </assets/js/4.5decec0d.js>; rel=preload; as=script, </assets/js/2.b0a30a9b.js>; rel=prefetch, </assets/js/3.450bbecf.js>; rel=prefetch, </assets/js/5.f4fad59d.js>; rel=prefetch, </assets/js/6.4e743c38.js>; rel=prefetch, </assets/js/7.9fa96e71.js>; rel=prefetch, </assets/js/9.5828ba24.js>; rel=prefetch
-/pengembang/
-	Link: </assets/css/0.styles.39d5b772.css>; rel=preload; as=style, </assets/js/app.10b956a9.js>; rel=preload; as=script, </assets/js/9.5828ba24.js>; rel=preload; as=script, </assets/js/4.5decec0d.js>; rel=prefetch, </assets/js/2.b0a30a9b.js>; rel=prefetch, </assets/js/3.450bbecf.js>; rel=prefetch, </assets/js/5.f4fad59d.js>; rel=prefetch, </assets/js/6.4e743c38.js>; rel=prefetch, </assets/js/7.9fa96e71.js>; rel=prefetch, </assets/js/8.24d8c5b0.js>; rel=prefetch
