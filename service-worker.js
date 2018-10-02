@@ -11,7 +11,7 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "6f0e1cc790908f0829a4c0223ef2c768"
+    "revision": "f61bef5796ec4c724a1fc81e40b807cc"
   },
   {
     "url": "android-chrome-192x192.png",
@@ -32,48 +32,60 @@ self.__precacheManifest = [
     "revision": "6e4673fc39c78b2806f2f49a020f4bcb"
   },
   {
-    "url": "assets/css/0.styles.39d5b772.css",
-    "revision": "bf0f6505e9eef7d45531e08c134e6fdd"
+    "url": "assets/css/1.styles.e7075a6d.css",
+    "revision": "d38955a642d7927d065b47547db8d5b2"
+  },
+  {
+    "url": "assets/css/2.styles.00f59afd.css",
+    "revision": "df7c35ec8029dbbde0735a45f875eaf7"
+  },
+  {
+    "url": "assets/css/3.styles.3d0a7854.css",
+    "revision": "4c1baffbb845ed97e8b716a07fc301fa"
+  },
+  {
+    "url": "assets/css/styles.517eb29e.css",
+    "revision": "6372a1a10a308e36e245ce10219b348b"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/2.b0a30a9b.js",
-    "revision": "cedebb457172c3f56d927cb9a0dbf60e"
+    "url": "assets/js/1.e7075a6d.js",
+    "revision": "6106249749a899d3d5f205a5acc919be"
   },
   {
-    "url": "assets/js/3.450bbecf.js",
-    "revision": "b0cb4fc544642233b5c9fa821e0e7651"
+    "url": "assets/js/2.00f59afd.js",
+    "revision": "a2765da04006b53b95c7f8a4d8ef3af0"
   },
   {
-    "url": "assets/js/4.5decec0d.js",
-    "revision": "6181ea6e6b488c6deffb65fa18b670d1"
+    "url": "assets/js/3.3d0a7854.js",
+    "revision": "febd736d7e764bea40c0aaa98163dd21"
   },
   {
-    "url": "assets/js/5.f4fad59d.js",
-    "revision": "3897133d62db47a061796c002bb8f345"
+    "url": "assets/js/4.e701dc1a.js",
+    "revision": "6da0dc8a2b4f3179c3ac30d1ad97e200"
   },
   {
-    "url": "assets/js/6.4e743c38.js",
-    "revision": "7c8a4d91b76a13d13e5f2c364e505b9f"
+    "url": "assets/js/5.0d6635a1.js",
+    "revision": "62c92c0c13f69fb936f9cb81a9d96cf0"
   },
   {
-    "url": "assets/js/7.9fa96e71.js",
-    "revision": "a1ec57c27bb728dc677cfc5e54ebb72c"
+    "url": "assets/js/6.3c934fe9.js",
+    "revision": "d503c49bb1da85dabc84804dfe78ede8"
   },
   {
-    "url": "assets/js/8.24d8c5b0.js",
-    "revision": "94a664af0d878d7f2e8c8fe9ae3e5e1d"
+    "url": "assets/js/7.dd44915d.js",
+    "revision": "a962399d0554988f3390353df9bcd4e6"
   },
   {
-    "url": "assets/js/9.5828ba24.js",
-    "revision": "eee1c8f59b61dd6f975e83a372962ee4"
+    "url": "assets/js/8.927f9a5c.js",
+    "revision": "0192426249160c0a9349cc6ed662dc81"
   },
   {
-    "url": "assets/js/app.bf1eb821.js",
-    "revision": "6b88ca1451e33577c4ce7160f903a4df"
+    "url": "assets/js/app.517eb29e.js",
+    "revision": "d8dcdf2b6d2dd4edf6fada9b7ccca7e7"
   },
   {
     "url": "favicon-16x16.png",
@@ -85,15 +97,15 @@ self.__precacheManifest = [
   },
   {
     "url": "hubungi/index.html",
-    "revision": "15f9db4e7d2a85bee4bf4f8c690742bd"
+    "revision": "d67ed93f87c1a4f43c56168e164782ba"
   },
   {
     "url": "ikhtisar/index.html",
-    "revision": "261a630a50ac06a341840c17ae89e44c"
+    "revision": "0f4a03e0f83b4506b0127da5c9bc653f"
   },
   {
     "url": "index.html",
-    "revision": "12e6c328a1aa33e541f31b0a48dad83b"
+    "revision": "efe501fa3b6ba50868432a266660c326"
   },
   {
     "url": "logo.png",
@@ -109,11 +121,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pengajuan/index.html",
-    "revision": "68955261fa407eec1c1bd007ebfd4def"
+    "revision": "301aa65f4574ab61d0e54f18a43410ed"
   },
   {
     "url": "pengembang/index.html",
-    "revision": "915113b5a3956abcb0dc93079537a488"
+    "revision": "b94dfa5679ade45364d5c83af197b4bc"
   },
   {
     "url": "safari-pinned-tab.svg",
