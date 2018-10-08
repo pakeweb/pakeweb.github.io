@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f61bef5796ec4c724a1fc81e40b807cc"
+    "revision": "9d92e06cf3292d95d36361e10fdf3d19"
   },
   {
     "url": "android-chrome-192x192.png",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "revision": "4c1baffbb845ed97e8b716a07fc301fa"
   },
   {
-    "url": "assets/css/styles.517eb29e.css",
+    "url": "assets/css/styles.683cd27a.css",
     "revision": "6372a1a10a308e36e245ce10219b348b"
   },
   {
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "revision": "0192426249160c0a9349cc6ed662dc81"
   },
   {
-    "url": "assets/js/app.517eb29e.js",
-    "revision": "d8dcdf2b6d2dd4edf6fada9b7ccca7e7"
+    "url": "assets/js/app.683cd27a.js",
+    "revision": "1ecb9d1f8c64ef59b769246a411583b6"
   },
   {
     "url": "favicon-16x16.png",
@@ -97,15 +97,15 @@ self.__precacheManifest = [
   },
   {
     "url": "hubungi/index.html",
-    "revision": "d67ed93f87c1a4f43c56168e164782ba"
+    "revision": "9a9d4bb18cb79f4e179dbe9e34acfe0a"
   },
   {
     "url": "ikhtisar/index.html",
-    "revision": "0f4a03e0f83b4506b0127da5c9bc653f"
+    "revision": "e0d3247b30581e5500fb2046aa0d6d2b"
   },
   {
     "url": "index.html",
-    "revision": "efe501fa3b6ba50868432a266660c326"
+    "revision": "7da875322a809fafed8216afec063e41"
   },
   {
     "url": "logo.png",
@@ -121,11 +121,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pengajuan/index.html",
-    "revision": "301aa65f4574ab61d0e54f18a43410ed"
+    "revision": "f9e239091bf74c3d986f4b91c222bc38"
   },
   {
     "url": "pengembang/index.html",
-    "revision": "b94dfa5679ade45364d5c83af197b4bc"
+    "revision": "defaffb4f5aeaef376274af6512b2b55"
   },
   {
     "url": "safari-pinned-tab.svg",
